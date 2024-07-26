@@ -2,6 +2,21 @@
 
 A simple backend application for managing contacts. This API allows users to create, read, update, and delete user profiles. It is built with Node.js, Express, and MongoDB.
 
+## Project Overview
+
+The Contact Manager Backend is a RESTful API built to manage user profiles effectively. This application allows users to register, log in, and perform CRUD operations (Create, Read, Update, Delete) on user data. The backend is developed using **Node.js** and **Express.js**, ensuring a robust and scalable architecture. The data is stored in a **MongoDB** database, which provides flexibility and efficiency in handling user information. For user authentication, we utilize **JSON Web Tokens (JWT)** and secure password storage with **bcryptjs**. This project is designed to be a solid foundation for building contact management applications, offering a straightforward approach to user management.
+
+### Tech Stack
+
+- **Node.js**: JavaScript runtime for building scalable applications.
+- **Express.js**: Web framework for Node.js that simplifies server-side development.
+- **MongoDB**: NoSQL database for storing user data in a flexible format.
+- **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **jsonwebtoken**: Library for handling JWT authentication.
+- **bcryptjs**: Library for hashing passwords securely.
+- **dotenv**: Module for loading environment variables from a `.env` file.
+
+
 ## Table of Contents
 
 - [Features](#features)
