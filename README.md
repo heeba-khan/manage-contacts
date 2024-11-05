@@ -47,7 +47,7 @@ The Contact Manager Backend is a RESTful API built to manage user profiles effec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contact-manager-backend.git
+   git clone https://github.com/heeba-khan/contact-manager-backend.git
 
    cd contact-manager-backend
 
